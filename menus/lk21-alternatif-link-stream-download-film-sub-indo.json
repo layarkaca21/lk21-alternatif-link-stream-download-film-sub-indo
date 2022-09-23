@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lk21-alternatif-link-stream-download-film-sub-indo",
+        "command": "lk21-alternatif-link-stream-download-film-sub-indo:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lk21-alternatif-link-stream-download-film-sub-indo",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lk21-alternatif-link-stream-download-film-sub-indo:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,9 @@
 {
   "name": "lk21-alternatif-link-stream-download-film-sub-indo",
   "main": "./lib/lk21-alternatif-link-stream-download-film-sub-indo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Link Alternatif Lk21 Streaming Download",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "lk21-alternatif-link-stream-download-film-sub-indo:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
